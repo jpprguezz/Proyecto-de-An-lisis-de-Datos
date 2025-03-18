@@ -80,9 +80,19 @@ Los datos recopilados se clasificaron de la siguiente manera:
 
 **Visualizaciones**:
 1. **Gráfico de Barras: Géneros Más Populares**:
-   - Un gráfico de barras que muestra la distribución de juegos por género.
-   ![Gráfico de Barras](https://via.placeholder.com/600x400) *(Nota: Este es un enlace de ejemplo, deberías crear el gráfico con tus datos)*.
+```
+  Acción       ████████████████████████████████████████████████████████████████████ 35%
+  
+  Aventura     ████████████████████████████████████████████████████████████ 25%
+  
+  Estrategia   █████████████████████████████████████████████████ 20%
+  
+  Deportes     ████████████████████████████████ 10%
+  
+  Simulación   ████████████████████████ 8%
 
+  Otros        ████████████ 2%
+```
 2. **Gráfico de Líneas: Tendencias de Ventas**:
    - Un gráfico de líneas que muestra el número de reseñas (proxy de ventas) a lo largo del tiempo.
    ![Gráfico de Líneas](https://via.placeholder.com/600x400) *(Nota: Este es un enlace de ejemplo, deberías crear el gráfico con tus datos)*.
