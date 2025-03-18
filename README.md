@@ -98,7 +98,6 @@ Los datos recopilados se clasificaron de la siguiente manera:
 ```
 2. **Gráfico de Barras: Tendencias de Ventas**: 
 ```
-
 Año    Ventas (en miles)
 
 2018   ████████████████████████████████████████████████████████████████████ 100
