@@ -94,7 +94,7 @@ Los datos recopilados se clasificaron de la siguiente manera:
    |---------------------------|-----------|--------------|-----------|
    | Counter-Strike: Global Offensive | Acción    | Gratis       | 5,000,000 |
    | Dota 2                    | Estrategia| Gratis       | 4,800,000 |
-   | PUBG: Battlegrounds       | Battle Royale | $29.99   | 3,200,000 |
+   | PUBG: Battlegrounds       | Battle Royale | Gratis   | 3,200,000 |
 
 ---
 
