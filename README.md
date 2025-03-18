@@ -81,6 +81,8 @@ Los datos recopilados se clasificaron de la siguiente manera:
 **Visualizaciones**:
 1. **Gráfico de Barras: Géneros Más Populares**:
 ```
+  Género
+
   Acción       ████████████████████████████████████████████████████████████████████ 35%
   
   Aventura     ████████████████████████████████████████████████████████████ 25%
@@ -92,12 +94,25 @@ Los datos recopilados se clasificaron de la siguiente manera:
   Simulación   ████████████████████████ 8%
 
   Otros        ████████████ 2%
-```
-2. **Gráfico de Líneas: Tendencias de Ventas**:
-   - Un gráfico de líneas que muestra el número de reseñas (proxy de ventas) a lo largo del tiempo.
-   ![Gráfico de Líneas](https://via.placeholder.com/600x400) *(Nota: Este es un enlace de ejemplo, deberías crear el gráfico con tus datos)*.
 
-3. **Tabla: Juegos Más Vendidos**:
+```
+2. **Gráfico de Barras: Tendencias de Ventas**: 
+```
+
+Año    Ventas (en miles)
+
+2018   ████████████████████████████████████████████████████████████████████ 100
+
+2019   ████████████████████████████████████████████████████████████████████████████ 150
+
+2020   █████████████████████████████████████████████████████████████████████████████████████ 200
+
+2021   █████████████████████████████████████████████████████████████████████████████████████████████████████ 300
+
+2022   █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 400
+```
+
+4. **Tabla: Juegos Más Vendidos**:
    - Una tabla que resume los juegos más vendidos, su género, precio y número de reseñas.
    
    | Nombre del Juego          | Género    | Precio (USD) | Reseñas   |
