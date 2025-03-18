@@ -92,7 +92,7 @@ Los datos recopilados se clasificaron de la siguiente manera:
    
    | Nombre del Juego          | Género    | Precio (USD) | Reseñas   |
    |---------------------------|-----------|--------------|-----------|
-   | Counter-Strike: Global Offensive | Acción    | Gratis       | 5,000,000 |
+   | Counter-Strike: Global Offensive (actualmente Counter-Strike 2) | Acción    | Gratis       | 5,000,000 |
    | Dota 2                    | Estrategia| Gratis       | 4,800,000 |
    | PUBG: Battlegrounds       | Battle Royale | Gratis   | 3,200,000 |
 
