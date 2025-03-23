@@ -80,36 +80,10 @@ Los datos recopilados se clasificaron de la siguiente manera:
 
 **Visualizaciones**:
 1. **Gráfico de Barras: Géneros Más Populares**:
-```
-  Género
+![image](https://github.com/user-attachments/assets/feb48e8d-77f2-43c6-9024-f25406ccfe58)
 
-  Acción       ████████████████████████████████████████████████████████████████████ 35%
-  
-  Aventura     ████████████████████████████████████████████████████████████ 25%
-  
-  Estrategia   █████████████████████████████████████████████████ 20%
-  
-  Deportes     ████████████████████████████████ 10%
-  
-  Simulación   ████████████████████████ 8%
-
-  Otros        ████████████ 2%
-
-```
 2. **Gráfico de Barras: Tendencias de Ventas**: 
-```
-Año    Ventas (en miles)
-
-2018   ████████████████████████████████████████████████████████████████████ 100
-
-2019   ████████████████████████████████████████████████████████████████████████████ 150
-
-2020   █████████████████████████████████████████████████████████████████████████████████████ 200
-
-2021   █████████████████████████████████████████████████████████████████████████████████████████████████████ 300
-
-2022   █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 400
-```
+![grafico_ventas](https://github.com/user-attachments/assets/669ee4fc-ec44-44ea-93ea-d7b5b52c6eaa)
 
 4. **Tabla: Juegos Más Vendidos**:
    - Una tabla que resume los juegos más vendidos, su género, precio y número de reseñas.
