@@ -73,7 +73,7 @@ Los datos recopilados se clasificaron de la siguiente manera:
 
 3. **Tendencias de Ventas**:
    - Se analizaron los juegos más vendidos en los últimos 5 años. Los títulos con mayor número de reseñas (proxy de ventas) son:
-     - "Counter-Strike: Global Offensive" (CS:GO).
+     - "Counter-Strike: Global Offensive" (actualmente Counter-Strike 2).
      - "Dota 2".
      - "PUBG: Battlegrounds".
    - Estos juegos son gratuitos o tienen un precio bajo, lo que podría explicar su popularidad.
